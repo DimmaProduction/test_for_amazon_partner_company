@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+    min-height: 100vh;
+    /* height: 120%; */
+
+    /* BACKGROUND */
+    background: #ff3535;
+    background: -webkit-linear-gradient(to right, #ff3535, #51055a);
+    background: linear-gradient(to right, #ff3535, #51055a);
+}
+
+
